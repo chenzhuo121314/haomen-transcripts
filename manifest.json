@@ -9,6 +9,12 @@
           "turns": 221,
           "backend": "deepseek / deepseek-v4-pro",
           "file": "045_20260628_073407_transcript.html"
+        },
+        {
+          "ts": "20260628_073216",
+          "turns": 222,
+          "backend": "codex / gpt-5.5",
+          "file": "045_20260628_073216_transcript.html"
         }
       ]
     }
