@@ -37,7 +37,7 @@
         {
           "ts": "20260626_144148",
           "turns": 779,
-          "backend": "?",
+          "backend": "gemini-3.5-flash",
           "file": "012_20260626_144148_transcript.html"
         }
       ]
