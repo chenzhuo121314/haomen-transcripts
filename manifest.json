@@ -25,14 +25,20 @@
       ]
     },
     "012": {
-      "name": "嗜睡蔷薇（6-开本整理）",
-      "period": "12",
+      "name": "012",
+      "period": "012",
       "runs": [
         {
           "ts": "20260629_201041",
           "turns": 327,
           "backend": "deepseek / deepseek-v4-pro",
           "file": "012_20260629_201041_transcript.html"
+        },
+        {
+          "ts": "20260626_144148",
+          "turns": 779,
+          "backend": "?",
+          "file": "012_20260626_144148_transcript.html"
         }
       ]
     }
