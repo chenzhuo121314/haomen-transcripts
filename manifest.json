@@ -29,6 +29,12 @@
       "period": "12",
       "runs": [
         {
+          "ts": "20260629_204008",
+          "turns": 303,
+          "backend": "codex / gpt-5.5",
+          "file": "012_20260629_204008_transcript.html"
+        },
+        {
           "ts": "20260629_201041",
           "turns": 327,
           "backend": "deepseek / deepseek-v4-pro",
