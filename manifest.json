@@ -23,6 +23,18 @@
           "file": "045_20260628_073216_transcript.html"
         }
       ]
+    },
+    "012": {
+      "name": "嗜睡蔷薇（6-开本整理）",
+      "period": "12",
+      "runs": [
+        {
+          "ts": "20260629_201041",
+          "turns": 327,
+          "backend": "deepseek / deepseek-v4-pro",
+          "file": "012_20260629_201041_transcript.html"
+        }
+      ]
     }
   }
 }
